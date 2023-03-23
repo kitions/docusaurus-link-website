@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/kitions/docusaurus-link-website/docs/',
+            'https://github.com/kitions/docusaurus-link-website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/kitions/docusaurus-link-website/blog/',
+            'https://github.com/kitions/docusaurus-link-website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
